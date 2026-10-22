@@ -1,0 +1,23 @@
+{
+  "version": "v1.0-car-only",
+  "classes": [
+    "Thong_thoang",
+    "Dong_duc"
+  ],
+  "sequence_length": 5,
+  "features": [
+    "car_count",
+    "avg_speed",
+    "speed_cv"
+  ],
+  "vehicle_classes": [
+    "car",
+    "truck",
+    "bus"
+  ],
+  "models": {
+    "predictor": "models/predictor.onnx",
+    "detector": "models/detector.onnx",
+    "scaler": "models/scaler.pkl"
+  }
+}
