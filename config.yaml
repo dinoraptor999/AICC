@@ -1,0 +1,15 @@
+video_path: data/input.mp4
+
+model_paths:
+  detector: models/best.pt
+
+preprocessing:
+  resize: [640, 640]
+  normalize: true
+
+sequence_length: 5
+
+vehicle_classes:
+  - car
+  - truck
+  - bus

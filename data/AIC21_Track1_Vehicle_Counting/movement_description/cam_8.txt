@@ -1,0 +1,9 @@
+three-leg allway-stop interction
+fisheye camera
+
+movement 1: through movement
+movement 2: left-turning movement
+movement 3: right-turning movement
+movement 4: left-turning movement
+movement 5: right_turning movement
+movement 6: through movement

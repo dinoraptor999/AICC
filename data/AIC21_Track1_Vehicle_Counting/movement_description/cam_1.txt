@@ -1,0 +1,10 @@
+highway on ramp, off ramp and normal segments
+normal camera
+
+movement 1: highway through movement 
+movement 2: highway through movement
+movement 3: highway on ramp
+movement 4: highway off ramp
+
+note:
+movement 2 only counts the through traffic, not including the merging traffic from movement 3.

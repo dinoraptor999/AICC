@@ -1,0 +1,9 @@
+Intersection Single Approach with separate right-turning lane and separate left-turning lane
+normal camera
+
+movement 1: right-turning movement
+movement 2: through movement
+movement 3: left-turning movement
+
+note: 
+U-turns are not counted.

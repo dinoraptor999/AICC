@@ -1,0 +1,10 @@
+highway on ramp, off ramp and normal segments
+long range PTZ camera
+
+movement 1: highway through movement 
+movement 2: highway through movement
+movement 3: highway off ramp
+movement 4: highway on ramp
+
+note:
+movement 2 only counts the through traffic, not including the merging traffic from movement 4.

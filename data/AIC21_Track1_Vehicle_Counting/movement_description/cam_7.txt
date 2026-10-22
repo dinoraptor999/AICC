@@ -1,0 +1,18 @@
+four-leg signalized Intersection
+long range PTZ camera
+
+movement 1: right-turning movement
+movement 2: through movement
+movement 3: left-turning movement
+movement 4: right-turning movement
+movement 5: through movement
+movement 6: left-turning movement
+movement 7: right-turning movement
+movement 8: through movement
+movement 9: left-turning movement
+movement 10: right-turning movement
+movement 11: through movement
+movement 12: left-turning movement
+
+note:
+U-turns are not counted.

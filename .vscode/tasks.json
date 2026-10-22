@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Train traffic predictor",
+			"type": "shell",
+			"command": "C:\\Users\\hungm\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+			"args": [
+				"training\\train_predictor.py"
+			],
+			"isBackground": false
+		}
+	]
+}

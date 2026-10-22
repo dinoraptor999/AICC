@@ -1,0 +1,15 @@
+ultralytics
+opencv-python
+torch
+numpy
+pandas
+fastapi
+uvicorn
+python-multipart
+onnx
+onnxruntime
+pydantic
+pyyaml
+lap
+scikit-learn
+tqdm

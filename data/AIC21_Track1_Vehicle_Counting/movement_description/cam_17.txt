@@ -1,0 +1,8 @@
+city street with on-street parking
+normal camera
+
+movement 1: through movement
+movement 2: through movement
+
+note: 
+Movements other than the annotated two are not counted (For example, turning into/from the parking lot/minor street)
